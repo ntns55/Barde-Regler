@@ -1,0 +1,45 @@
+\babel@toc {danish}{}\relax 
+\contentsline {chapter}{Indledning}{4}{chapter*.2}%
+\contentsline {chapter}{Niveau 1}{5}{chapter*.3}%
+\contentsline {section}{Evne beskrivelse}{5}{table.caption.4}%
+\contentsline {subsection}{Indkomst}{5}{section*.5}%
+\contentsline {subsection}{Læse og skrive Elvisk}{5}{section*.5}%
+\contentsline {subsection}{Læse og skrive Hellig}{6}{figure.caption.6}%
+\contentsline {subsection}{Læse og skrive Magisk}{6}{figure.caption.7}%
+\contentsline {chapter}{Niveau 2}{7}{chapter*.9}%
+\contentsline {section}{Evne beskrivelse}{7}{table.caption.10}%
+\contentsline {subsection}{Ekstra NK Niv. 1}{7}{section*.11}%
+\contentsline {subsection}{Historiekundskab}{7}{section*.11}%
+\contentsline {subsection}{Indgyd Mod}{7}{section*.11}%
+\contentsline {subsection}{Lommetyveri Niv. 1}{8}{section*.11}%
+\contentsline {chapter}{Niveau 3}{9}{chapter*.12}%
+\contentsline {section}{Evne beskrivelse}{9}{table.caption.13}%
+\contentsline {subsection}{Indgyd Episk Mod}{9}{section*.14}%
+\contentsline {subsection}{Indgyd Paranoia}{9}{section*.14}%
+\contentsline {subsection}{Rygte Spreder/Samler Niv. 1}{10}{section*.14}%
+\contentsline {chapter}{Niveau 4}{11}{chapter*.15}%
+\contentsline {section}{Evne beskrivelse for Historiker}{11}{section*.16}%
+\contentsline {subsection}{Arkæolog}{11}{section*.16}%
+\contentsline {subsection}{Lav Magiske Skriftruller}{11}{section*.16}%
+\contentsline {subsection}{Professorat}{12}{section*.16}%
+\contentsline {section}{Evne beskrivelse for Ildstifter}{12}{section*.16}%
+\contentsline {subsection}{Forbindelser}{12}{section*.17}%
+\contentsline {subsection}{Indgyd Episk Paranoia}{12}{section*.17}%
+\contentsline {subsection}{Rygte Spreder/Samler Niv. 2}{12}{section*.17}%
+\contentsline {chapter}{Generelle evner}{13}{chapter*.18}%
+\contentsline {section}{Evne beskrivelse}{13}{table.caption.19}%
+\contentsline {subsection}{6. sans Niv. 1}{13}{section*.20}%
+\contentsline {subsection}{6. sans Niv. 2}{14}{section*.20}%
+\contentsline {subsection}{Bonk}{14}{section*.20}%
+\contentsline {subsection}{Brug af pistol}{14}{section*.20}%
+\contentsline {subsection}{Bære person}{14}{section*.20}%
+\contentsline {subsection}{Kamp med tohåndsvåben}{15}{section*.20}%
+\contentsline {subsection}{Førstehjælp}{15}{section*.20}%
+\contentsline {subsection}{Læse og skrive}{15}{section*.20}%
+\contentsline {subsection}{Minearbejder}{15}{section*.20}%
+\contentsline {subsection}{Påfør gift}{15}{section*.20}%
+\contentsline {subsection}{Slagsbror Niv. 1}{16}{section*.20}%
+\contentsline {subsection}{Slagsbror Niv. 2}{16}{section*.20}%
+\contentsline {subsection}{Slagsbror Niv. 2}{16}{section*.20}%
+\contentsline {subsection}{Speciale}{16}{section*.20}%
+\contentsline {subsection}{Urtesamler}{17}{section*.20}%
