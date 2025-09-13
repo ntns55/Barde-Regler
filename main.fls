@@ -379,6 +379,9 @@ INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uni
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\stmaryrd\stmaryrd.sty
+INPUT .\main.aux
+INPUT .\main.aux
+INPUT main.aux
 OUTPUT main.aux
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -390,8 +393,14 @@ INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
-OUTPUT main.out
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.out
+INPUT main.out
 OUTPUT main.pdf
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
 INPUT .\setup\Pictures\A01.C01.01_Front_Billede.png
 INPUT .\setup\Pictures\A01.C01.01_Front_Billede.png
 INPUT .\setup\Pictures\A01.C01.01_Front_Billede.png
@@ -418,22 +427,10 @@ INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-OUTPUT main.toc
-INPUT .\mainstuff\Indledning.tex
-INPUT .\mainstuff\Indledning.tex
-INPUT mainstuff\Indledning.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT .\main.toc
+INPUT .\main.toc
+INPUT main.toc
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT .\mainstuff\Niv1.tex
-INPUT .\mainstuff\Niv1.tex
-INPUT .\mainstuff\Niv1.tex
-INPUT .\mainstuff\Niv1.tex
-INPUT mainstuff\Niv1.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplx.fd
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplx.fd
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1pplx.fd
@@ -476,13 +473,26 @@ INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\tex\latex\stmaryrd\ustmry.fd
 INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary10.tfm
 INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary8.tfm
 INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\tfm\public\stmaryrd\stmary6.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+OUTPUT main.toc
+INPUT .\mainstuff\Indledning.tex
+INPUT .\mainstuff\Indledning.tex
+INPUT mainstuff\Indledning.tex
+INPUT .\mainstuff\Niv1.tex
+INPUT .\mainstuff\Niv1.tex
+INPUT .\mainstuff\Niv1.tex
+INPUT .\mainstuff\Niv1.tex
+INPUT mainstuff\Niv1.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT .\mainstuff\Evner\Indkomst.tex
-INPUT .\mainstuff\Evner\Indkomst.tex
-INPUT .\mainstuff\Evner\Indkomst.tex
-INPUT .\mainstuff\Evner\Indkomst.tex
-INPUT mainstuff\Evner\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
@@ -526,7 +536,12 @@ INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Hellig.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Hellig.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Hellig.tex
 INPUT ..\Evne-Ordbog\Læse og skrive\Læse og skrive Hellig.tex
-INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
+INPUT ..\Evne-Ordbog\setup\Alfabeter\Helligt alfabet.pdf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
@@ -669,8 +684,6 @@ OUTPUT main.thm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
-INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\niels\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
 INPUT C:\Users\niels\AppData\Local\Programs\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
