@@ -20,29 +20,27 @@
 \contentsline {subsection}{Indgyd Kærlighed}{10}{section*.14}%
 \contentsline {subsection}{Rygte Spreder/Samler Niv. 1}{10}{section*.14}%
 \contentsline {chapter}{Niveau 4}{11}{chapter*.15}%
-\contentsline {section}{Evne beskrivelse for Historiker}{11}{section*.16}%
-\contentsline {subsection}{Arkæolog}{11}{section*.16}%
-\contentsline {subsection}{Lav Magiske Skriftruller}{12}{section*.16}%
-\contentsline {subsection}{Professorat}{12}{section*.16}%
-\contentsline {section}{Evne beskrivelse for Ildstifter}{12}{section*.16}%
-\contentsline {subsection}{Forbindelser}{12}{section*.17}%
-\contentsline {subsection}{Indgyd Løstløgn}{12}{section*.17}%
+\contentsline {section}{Evne beskrivelse}{11}{table.caption.16}%
+\contentsline {subsection}{Arkæolog}{11}{section*.17}%
 \contentsline {subsection}{Indgyd Had}{12}{section*.17}%
-\contentsline {subsection}{Rygte Spreder/Samler Niv. 2}{13}{section*.17}%
-\contentsline {chapter}{Generelle evner}{14}{chapter*.18}%
-\contentsline {section}{Evne beskrivelse}{14}{table.caption.19}%
-\contentsline {subsection}{6. sans Niv. 1}{14}{section*.20}%
-\contentsline {subsection}{6. sans Niv. 2}{15}{section*.20}%
-\contentsline {subsection}{Bonk}{15}{section*.20}%
-\contentsline {subsection}{Brug af pistol}{15}{section*.20}%
-\contentsline {subsection}{Bære person}{15}{section*.20}%
-\contentsline {subsection}{Kamp med tohåndsvåben}{16}{section*.20}%
-\contentsline {subsection}{Førstehjælp}{16}{section*.20}%
-\contentsline {subsection}{Læse og skrive}{16}{section*.20}%
-\contentsline {subsection}{Minearbejder}{16}{section*.20}%
-\contentsline {subsection}{Påfør gift}{16}{section*.20}%
-\contentsline {subsection}{Slagsbror Niv. 1}{17}{section*.20}%
-\contentsline {subsection}{Slagsbror Niv. 2}{17}{section*.20}%
-\contentsline {subsection}{Slagsbror Niv. 2}{17}{section*.20}%
-\contentsline {subsection}{Speciale}{17}{section*.20}%
-\contentsline {subsection}{Urtesamler}{18}{section*.20}%
+\contentsline {subsection}{Indgyd Løstløgn}{12}{section*.17}%
+\contentsline {subsection}{Lav Magiske Skriftruller}{12}{section*.17}%
+\contentsline {subsection}{Professorat}{12}{section*.17}%
+\contentsline {subsection}{Rygte Spreder/Samler Niv. 2}{12}{section*.17}%
+\contentsline {chapter}{Generelle evner}{13}{chapter*.18}%
+\contentsline {section}{Evne beskrivelse}{13}{table.caption.19}%
+\contentsline {subsection}{6. sans Niv. 1}{13}{section*.20}%
+\contentsline {subsection}{6. sans Niv. 2}{14}{section*.20}%
+\contentsline {subsection}{Bonk}{14}{section*.20}%
+\contentsline {subsection}{Brug af pistol}{14}{section*.20}%
+\contentsline {subsection}{Bære person}{14}{section*.20}%
+\contentsline {subsection}{Kamp med tohåndsvåben}{15}{section*.20}%
+\contentsline {subsection}{Førstehjælp}{15}{section*.20}%
+\contentsline {subsection}{Læse og skrive}{15}{section*.20}%
+\contentsline {subsection}{Minearbejder}{15}{section*.20}%
+\contentsline {subsection}{Påfør gift}{15}{section*.20}%
+\contentsline {subsection}{Slagsbror Niv. 1}{16}{section*.20}%
+\contentsline {subsection}{Slagsbror Niv. 2}{16}{section*.20}%
+\contentsline {subsection}{Slagsbror Niv. 2}{16}{section*.20}%
+\contentsline {subsection}{Speciale}{16}{section*.20}%
+\contentsline {subsection}{Urtesamler}{17}{section*.20}%
