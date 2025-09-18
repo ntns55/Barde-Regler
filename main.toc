@@ -1,0 +1,46 @@
+\babel@toc {danish}{}\relax 
+\contentsline {chapter}{\numberline {1}Indledning}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Niveau 1}{3}{chapter.2}%
+\contentsline {section}{Evne beskrivelse}{3}{section*.3}%
+\contentsline {subsection}{Indgyd Ærlighed}{3}{subsection*.4}%
+\contentsline {subsection}{Indkomst}{3}{subsection*.5}%
+\contentsline {subsection}{Læse og skrive Elvisk}{4}{subsection*.6}%
+\contentsline {subsection}{Læse og skrive Hellig}{4}{subsection*.8}%
+\contentsline {subsection}{Læse og skrive Magisk}{4}{subsection*.10}%
+\contentsline {chapter}{\numberline {3}Niveau 2}{5}{chapter.3}%
+\contentsline {section}{Evne beskrivelse}{5}{section*.13}%
+\contentsline {subsection}{Ekstra NK Niv. 1}{5}{subsection*.14}%
+\contentsline {subsection}{Historiekundskab}{5}{subsection*.15}%
+\contentsline {subsection}{Indgyd Hovmod}{6}{subsection*.16}%
+\contentsline {subsection}{Indgyd Mod}{6}{subsection*.17}%
+\contentsline {chapter}{\numberline {4}Niveau 3}{7}{chapter.4}%
+\contentsline {section}{Evne beskrivelse}{7}{table.caption.18}%
+\contentsline {subsection}{Band}{7}{subsection*.19}%
+\contentsline {subsection}{Indgyd Paranoia}{7}{subsection*.20}%
+\contentsline {subsection}{Indgyd Kærlighed}{8}{subsection*.21}%
+\contentsline {subsection}{Rygte Spreder/Samler Niv. 1}{8}{subsection*.22}%
+\contentsline {chapter}{\numberline {5}Niveau 4}{9}{chapter.5}%
+\contentsline {section}{Evne beskrivelse}{9}{section*.24}%
+\contentsline {subsection}{Arkæolog}{9}{subsection*.25}%
+\contentsline {subsection}{Indgyd Had}{10}{subsection*.26}%
+\contentsline {subsection}{Indgyd Løstløgn}{10}{subsection*.27}%
+\contentsline {subsection}{Lav Magiske Skriftruller}{10}{subsection*.28}%
+\contentsline {subsection}{Professorat}{10}{subsection*.29}%
+\contentsline {subsection}{Rygte Spreder/Samler Niv. 2}{10}{subsection*.30}%
+\contentsline {chapter}{Generelle evner}{11}{chapter*.31}%
+\contentsline {section}{Evne beskrivelse}{11}{table.caption.32}%
+\contentsline {subsection}{6. sans Niv. 1}{11}{subsection*.33}%
+\contentsline {subsection}{6. sans Niv. 2}{12}{subsection*.34}%
+\contentsline {subsection}{Bonk}{12}{subsection*.35}%
+\contentsline {subsection}{Brug af pistol}{12}{subsection*.36}%
+\contentsline {subsection}{Bære person}{12}{subsection*.37}%
+\contentsline {subsection}{Kamp med tohåndsvåben}{13}{subsection*.38}%
+\contentsline {subsection}{Førstehjælp}{13}{subsection*.39}%
+\contentsline {subsection}{Læse og skrive}{13}{subsection*.40}%
+\contentsline {subsection}{Minearbejder}{13}{subsection*.41}%
+\contentsline {subsection}{Påfør gift}{13}{subsection*.42}%
+\contentsline {subsection}{Slagsbror Niv. 1}{14}{subsection*.43}%
+\contentsline {subsection}{Slagsbror Niv. 2}{14}{subsection*.44}%
+\contentsline {subsection}{Slagsbror Niv. 2}{14}{subsection*.45}%
+\contentsline {subsection}{Speciale}{14}{subsection*.46}%
+\contentsline {subsection}{Urtesamler}{15}{subsection*.47}%
