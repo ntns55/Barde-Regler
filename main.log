@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  18 SEP 2025 10:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  18 SEP 2025 10:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1249,6 +1249,11 @@ l.20 ...on}{Indgyd Kærlighed}{10}{subsection*.21}
 
 [3]
 Kapitel 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
 ) (mainstuff/Niv1.tex
 
 [4
@@ -1321,137 +1326,6 @@ pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pd
 > <../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf
 
 pdfTeX warning: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]
-Kapitel 3.
-(../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 2--17
-
- []
-
-
-
-[7
-
-
-] (../Evne-Ordbog/Indgyd mod.tex)) (mainstuff/Niv3.tex
-
-[8]
-Kapitel 4.
-
-
-[9
-
-
-] (../Evne-Ordbog/Rygtespreder/Rygtespreder Niv 1.tex)) (mainstuff/Niv4.tex
-
-[10]
-Kapitel 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-
-[11
-
-
-]) (../Evne-Ordbog/GenerelleEvner/GenerelleEvnerIngenMagiKampMedTohånds.tex
-
-[12] (../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex
-
-Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 2.
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 3--34
-
- []
-
-(../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv2.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--36
-
- []
-
-
-
-[13
-
-
-] (../Evne-Ordbog/GenerelleEvner/Evner/Bonk.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--38
-
- []
-
-(../Evne-Ordbog/GenerelleEvner/Evner/Brug af pistol.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--40
-
- []
-
-(../Evne-Ordbog/GenerelleEvner/Evner/Bære Person.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--42
-
- []
-
-(../Evne-Ordbog/GenerelleEvner/Evner/Kamp Med Tohåndsvåben.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--44
-
- []
-
-(../Evne-Ordbog/GenerelleEvner/Evner/Førstehjælp.tex
-
-[14]) (../Evne-Ordbog/GenerelleEvner/Evner/Læse og skrive.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--48
-
- []
-
-(../Evne-Ordbog/GenerelleEvner/Evner/Minearbejder.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Påfør Gift.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 1.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 2.tex
-
-[15]) (../Evne-Ordbog/GenerelleEvner/Evner/Slagsbror Niv 3.tex) (../Evne-Ordbog/GenerelleEvner/Evner/Speciale.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-
- []
-
-) (../Evne-Ordbog/GenerelleEvner/Evner/Urtesamler.tex))
-\tf@thm=\write7
-\openout7 = `main.thm'.
-
-
-
-[16]
-
-[17] 
-enddocument/afterlastpage (AED): lastpage setting LastPage.
-(main.aux)
- ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-03-26>
- ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DD43E12EB5429B405E7DF9175611CD39;5996.
- ) 
-Here is how much of TeX's memory you used:
- 36986 strings out of 469959
- 739779 string characters out of 5470319
- 1174118 words of memory out of 5000000
- 62900 multiletter control sequences out of 15000+600000
- 681240 words of font info for 132 fonts, out of 8000000 for 9000
- 1146 hyphenation exceptions out of 8191
- 121i,17n,124p,930b,679s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (18 pages, 4603291 bytes).
-PDF statistics:
- 780 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+>
+!pdfTeX error: pdflatex (file ../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf): fflush() failed (Invalid argument)
+ ==> Fatal error occurred, no output PDF file produced!

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758185333.68801 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Barde-Regler/main.tex" "main.pdf" "main" 1758185339.42715 0
+["pdflatex"] 1758185682.2812 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Barde-Regler/main.tex" "main.pdf" "main" 1758185687.86545 2
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757917312 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1757917312 174 6a538d253a8c3bdcaf42296f763c64bc ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv2.tex" 1757917312 175 024dfac63f4b5c3c77043aa6bb07fa14 ""
@@ -286,11 +286,11 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Barde-Regler/main.tex" 1757917160 1801 b018cbac82c0a958af308d56e5759883 ""
-  "main.aux" 1758185338 5913 0d5a66163178e6fa159ed88a41a9bea4 "pdflatex"
-  "main.out" 1758185338 5996 dd43e12eb5429b405e7df9175611cd39 "pdflatex"
+  "main.aux" 1758185687 1716 0debcd7bd6b198952bcb72719958f88d "pdflatex"
+  "main.out" 1758185687 1091 b63c7db3a79045a8c1d29f6026c827c4 "pdflatex"
   "main.tex" 1757917160 1801 b018cbac82c0a958af308d56e5759883 ""
-  "main.toc" 1758185338 2865 7982ff5f59af068affe7b3b99630a3a0 "pdflatex"
-  "mainstuff/Indledning.tex" 1758185329 482 d7a8bb0f6ae39216d17090b07ce21a08 ""
+  "main.toc" 1758185687 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "mainstuff/Indledning.tex" 1758185678 623 283c6bd2694d84f4b0113a3f506073cf ""
   "mainstuff/Niv1.tex" 1757917160 1305 35da0eceebaa7807f4bc3db5b4ec17bb ""
   "mainstuff/Niv2.tex" 1757917160 1254 bc66ee1ddba112f28d9b3a1c7cef54d1 ""
   "mainstuff/Niv3.tex" 1757917160 1633 d53b8049f3fc16fab4b416ca4af608e7 ""
