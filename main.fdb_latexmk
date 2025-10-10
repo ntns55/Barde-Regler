@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758629755.52186 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Barde-Regler/main.tex" "main.pdf" "main" 1758629760.38207 0
+["pdflatex"] 1760086260.46135 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Barde-Regler/main.tex" "main.pdf" "main" 1760086268.0069 0
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757917312 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv1.tex" 1758196555 122 ba25b781fb5a459c20d8a0c78fdf92f9 ""
   "../Evne-Ordbog/GenerelleEvner/Evner/6SansNiv2.tex" 1758196563 123 88d24f5d7d40dd90ed7f740380219219 ""
@@ -21,7 +21,7 @@
   "../Evne-Ordbog/Læse og skrive/Læse og skrive Elvisk.tex" 1757917312 269 4c834c496c91c6fe284020a4f88be032 ""
   "../Evne-Ordbog/Læse og skrive/Læse og skrive Hellig.tex" 1757917312 269 6b7f2f30951bcbcf6e9c551cfa30d197 ""
   "../Evne-Ordbog/Læse og skrive/Læse og skrive Magisk.tex" 1757917312 267 09ecb4c352f72bb1abe3b58dd2e92348 ""
-  "../Evne-Ordbog/Rygtespreder/Rygtespreder Niv 1.tex" 1757917312 155 11fec497808bb6bb9332c50ca5c399ea ""
+  "../Evne-Ordbog/Rygtespreder/Rygtespreder Niv 1.tex" 1760079630 212 8c35267971ef19fea0b02886b3c6e1e7 ""
   "../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf" 1757328384 123684 4da46b3e88f8a8b74d721259993a3376 ""
   "../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf" 1757328384 123684 bd9249c874504e8fc4ef28ba35a13ab8 ""
   "../Evne-Ordbog/setup/Alfabeter/Magisk alfabet.pdf" 1757328384 123684 6529a17012a1d0684d5cc358714439bc ""
@@ -285,10 +285,10 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Barde-Regler/main.tex" 1758629749 1799 8885ee941fe5bfa9ea4eaa746530ddca ""
-  "main.aux" 1758629759 5907 39c41c01d9c2a5780a44f655767e4905 "pdflatex"
-  "main.out" 1758629759 5857 1e35af1ffbb8bae3ee049329e896e3f4 "pdflatex"
+  "main.aux" 1760086267 5907 39c41c01d9c2a5780a44f655767e4905 "pdflatex"
+  "main.out" 1760086267 5857 1e35af1ffbb8bae3ee049329e896e3f4 "pdflatex"
   "main.tex" 1758629749 1799 8885ee941fe5bfa9ea4eaa746530ddca ""
-  "main.toc" 1758629759 2834 f28e4e546e38befc87b86c9a12de0aa2 "pdflatex"
+  "main.toc" 1760086267 2834 f28e4e546e38befc87b86c9a12de0aa2 "pdflatex"
   "mainstuff/Indledning.tex" 1758629739 583 29c0a513d9af2a2fc96bc193b49e2caa ""
   "mainstuff/Niv1.tex" 1757917160 1305 35da0eceebaa7807f4bc3db5b4ec17bb ""
   "mainstuff/Niv2.tex" 1757917160 1254 bc66ee1ddba112f28d9b3a1c7cef54d1 ""
